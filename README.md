@@ -153,4 +153,4 @@ Create puzzles with your friends' names, favorite foods, movie titles, or anythi
 
 ### 🌟 Enjoy your word hunting adventure! 🌟
 
-*Made with ❤️ and Python*
+*Made by Mohammed Sarim Shaikh*
